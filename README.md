@@ -8,7 +8,7 @@ We would also like to know which cheese types contain less (or no) lactose if da
 
 ## Dataset
 
-This project is based on the Open Food Facts [dataset available on Kaggle]((https://kaggle.com/openfoodfacts/world-food-facts).
+This project is based on the Open Food Facts [dataset available on Kaggle](https://kaggle.com/openfoodfacts/world-food-facts).
 
 [Open Food Facts](https://openfoodfacts.org) is a free, open, collaborative database of food products from around the world. It contains data on ingredients, allergens, nutrition facts and all the tidbits of information found on product labels.
 
