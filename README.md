@@ -210,6 +210,6 @@ Moreover, soft, fresh and creamy cheeses tend to have less, in that order.
 
 If you are worried about salt consumption, stay away from pecorino and sheep cheese in general, and monitor the amount of blue cheese consumption. Creamy and fresh cheeses could be better choices, as well as emmental.
 
-If you are mostly worried about fat, consider avoiding mascarpone and that delicious tiramisù. Blue cheese in general also tend be fatter. Ricotta is as lean as it gets. White, soft and buffalo cheeses might be a good option too, such as feta, camembert and mozzarella di bufala.
+If you are mostly worried about fat, consider avoiding mascarpone and that delicious tiramisù. Blue cheese in general also tend to be fatter. Ricotta is as lean as it gets. White, soft and buffalo cheeses might be a good option too, such as feta, camembert and mozzarella di bufala.
 
 If you are looking for calcium and/or protein, look out for grana padano and parmigiano. Hard cheeses in general are a good option, whereas creamy ones won't have much to offer.
