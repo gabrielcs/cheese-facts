@@ -4,7 +4,7 @@
 
 As a cheese lover I would like to know which ones I should not eat too much of. We'll take a look at their fat and salt concentrations as well as other attributes that turn out to be interesting.
 
-We would also like to know which cheese types contain less (or no) lactose if data in case that data is available.
+We would also like to know which cheese types contain less (or no) lactose in case that data is available.
 
 ## Dataset
 
